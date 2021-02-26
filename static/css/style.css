@@ -1,0 +1,16 @@
+h4 {
+    margin-left: 20px;
+    color: #010101
+
+}
+
+h1.logo {
+    background-image: url("https://yastatic.net/s3/lyceum/content/images/second-year/web/MARS-2-7.png");
+    background-repeat: no-repeat;
+    padding-left: 180px;
+    margin-left: 80px
+}
+
+li.distribution {
+    list-style-type: none
+}
